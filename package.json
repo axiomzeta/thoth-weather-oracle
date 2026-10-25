@@ -32,7 +32,7 @@
     "tsx": "^4.0.0",
     "typescript": "^5.0.0"
   },
-  "license": "AGPL-3.0-only",
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "https://github.com/Axiom-Zeta-Innovations-LLC/thoth-weather-oracle.git"

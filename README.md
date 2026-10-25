@@ -1,5 +1,7 @@
 # Thoth Weather Oracle
 
+> **License: None — Proprietary. © 2026 Axiom Zeta Innovations LLC. All rights reserved.** This repository is source-visible only. No license is granted to copy, modify, distribute, or use this software; viewing this code grants no rights. All content is the property of Axiom Zeta Innovations LLC.
+
 > AI-powered weather prediction using digital twin world models.
 
 Thoth Weather Oracle is a weather forecasting workbench built on HRM (Hierarchical Reasoning Model) architecture. It uses digital twin simulations — virtual replicas of weather systems — to predict and analyze weather patterns, with a special focus on hurricane tracking and severe weather events.
